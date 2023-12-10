@@ -1,6 +1,5 @@
 # PearsonalPortfolio
 testing projects
-![background](https://github.com/Madhushapasindu/PearsonalPortfolio/assets/146882153/af778bf7-c3d0-4744-aa59-f56816ac695c)
 ![logo](https://github.com/Madhushapasindu/PearsonalPortfolio/assets/146882153/24882dce-a2cf-4982-94cf-838299854e5e)
 ![MAdhusha2](https://github.com/Madhushapasindu/PearsonalPortfolio/assets/146882153/37666a85-5b98-4509-8332-74cccd8af54b)
 ![Madhusha4](https://github.com/Madhushapasindu/PearsonalPortfolio/assets/146882153/c038ff27-6730-4eb8-b712-3be92a66d339)
